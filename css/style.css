@@ -943,6 +943,48 @@ line-height: 35px;
      margin-top: 90px;
 }
 
+.checked {
+     color: rgb(255, 220, 0);
+}
 
+.decoration-line {
+     color: rgba(143, 143, 143, 1.00);
+     text-decoration-line: line-through;
+}
 
+.orangered {
+     color: orangered;
+}
 
+.bed_room > p {
+     margin-bottom: 10px;
+}
+
+.see_more {
+     font-size: 17px;
+     background-color: #121212;
+     color: #fff;
+     padding: 8px 0px;
+     width: 100%;
+     max-width: 144px;
+     text-align: center;
+     display: inline-block;
+     transition: ease-in all 0.5s;
+     font-weight: 500;
+     border-radius: 30px;
+}
+
+.see_more:hover {
+     background: #fe0000;
+     color: #fff;
+     transition: ease-in all 0.5s;
+}
+
+#id_logo {
+     text-align: right;
+     color: #fe0000;
+     font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
